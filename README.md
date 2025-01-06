@@ -34,7 +34,7 @@ Dieses Repository enth채lt eine einfache vue/node web App die stellvertretend f�
 ## Anforderungen (Punkte spiegeln die Priorit채t wieder)
 
 - Entwickle ein E2E Test setup, mit dem die Akzeptanzkriterien abdeckt werden. (4 Punkte)
-- Mache dir Gedanken zu deinem idealen CI/CD Konzept in Hinsicht auf die QA Automation und Dokumentiere sie (in Markdown oder 채hnlichem).
+- Mache dir Gedanken zu deinem idealen CI/CD Konzept f체r verteilte Cloud-Anwendungen in Hinsicht auf die QA Automation und Dokumentiere sie (in Markdown oder 채hnlichem).
   Ber체cksichtige dabei, dass die Tests auch in die Pipelines der Backendservices integriert werden sollten. (4 Punkte)
 
 **Bonus Punkte**
